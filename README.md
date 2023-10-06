@@ -2,6 +2,8 @@
 
 *How to build your own sentiment analysis solution based on Machine Learning?*
 
+💡 Access the full presentation [here](https://noti.st/eleapttn/C1RRRI/a-quel-point-devons-nous-optimiser-nos-modeles-dia).
+
 ## Introduction
 
 The aim here is to propose several **sentiment analysis models** and see which solution is the most relevant.
